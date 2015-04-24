@@ -11,7 +11,6 @@ sudo apt-get install python-dev python-numpy libtbb2 libtbb-dev libjpeg-dev libp
 sudo apt-get install python-opencv
 
 sudo apt-get install python-matplotlib
--------------------------------------------------------------
 
 Execution of Program 
 --------------------------------------------------------------
